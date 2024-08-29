@@ -2,6 +2,7 @@
     "testgre": {
       "ip": "1.1.1.1",
       "pubip": "5.4.2.4",
-      "protected": "2.3.4.5"
+      "protected": "2.3.4.5",
+      "iface": "itgarage1"
     }
   }
