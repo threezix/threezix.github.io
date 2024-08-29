@@ -1,0 +1,21 @@
+{
+    "vm239FkoderhYIFyfuhDCF34D": {
+      "ip": "212.23.222.229",
+      "subnet": "10.88.88.2",
+      "subgw": "10.88.88",
+      "protected": "1.1.1.1"
+    },
+    "o8bAbCc3Zvqt0AQpQsEIsLvVUQooxCIm": {
+      "ip": "212.23.222.183",
+      "subnet": "10.77.77.2",
+      "subgw": "10.77.77",
+      "protected": "51.77.77.168"
+    },
+    "FJjfjtyFTYJ7i637yFYfyFY6i7rutFTGJjfgjftRYiyfdy": {
+        "ip": "212.23.222.183",
+        "subnet": "10.77.77.2",
+        "subgw": "10.77.77",
+        "protected": "51.77.77.168"
+      }
+  }
+  
