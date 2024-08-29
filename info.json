@@ -1,9 +1,9 @@
 {
-    "vm239FkoderhYIFyfuhDCF34D": {
-      "ip": "212.23.222.229",
+    "testgre": {
+      "ip": "1.1.1.1",
       "subnet": "10.88.88.2",
       "subgw": "10.88.88",
-      "protected": "1.1.1.1"
+      "protected": "1.2.2.2"
     },
     "o8bAbCc3Zvqt0AQpQsEIsLvVUQooxCIm": {
       "ip": "212.23.222.183",
