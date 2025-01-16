@@ -130,5 +130,16 @@
     "tun2ipv4": "10.18.12.2/30",
     "tun1routes": "10.0.2.1/32",
     "tun2routes": "10.0.2.2/32"
-  }
+  },
+  "ph0lex330304509ejkgiejgjmkeijmgkjmejigewfd": {
+    "tunlocal": "157.90.64.185",
+    "tun1": "88.198.17.88",
+    "tun2": "93.90.74.174",
+    "tun1iface": "gc_01",
+    "tun2iface": "gc_02",
+    "tun1ipv4": "10.37.42.2/30",
+    "tun2ipv4": "10.123.11.2/30",
+    "tun1routes": "10.0.2.1/32",
+    "tun2routes": "10.0.2.2/32"
+  },
 }
