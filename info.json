@@ -143,7 +143,7 @@
     "tun2routes": "10.0.2.2/32"
   },
   "aspe0ct94IFIKjfgJIFHIhinfihgBIHNDIBHibhd": {
-    "tunlocal": "212.115.124.213",
+    "tunlocal": "103.167.235.131",
     "tun1": "88.198.17.88",
     "tun2": "93.90.74.174",
     "tun1iface": "gc_01",
